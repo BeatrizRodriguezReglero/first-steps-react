@@ -17,7 +17,7 @@ const App = () => {
 	<CelsiusToFahrenheit celsius={30}/>
 	<FahrenheitToCelsius fahrenheit={68}/>
 	<TotalPrice price={68}/>
-	<WriteMessage name='Beatriz' material='cartón' size='20x20' note='Carlos'/>
+	<WriteMessage name='Beatriz' material='cartón' size='20x20' note='Gracias'/>
 	</>
 	)
 };
